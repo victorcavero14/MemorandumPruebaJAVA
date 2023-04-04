@@ -5,10 +5,11 @@
 ## Ejercicio 2.1 - Calculadora de IMC
 La solución para este ejercicio consiste en escribir una función que calcule el Índice de Masa Corporal (IMC) a partir del peso y la altura de una persona, y devuelva una etiqueta que indique el resultado según los siguientes criterios:
 
-Si el IMC es menor o igual a 18.5, devolver "Infrapeso"
-Si el IMC es mayor que 18.5 y menor o igual a 25, devolver "Normal"
-Si el IMC es mayor que 25 y menor o igual a 30, devolver "Sobrepeso"
-Si el IMC es mayor que 30, devolver "Obeso"
+- Si el IMC es menor o igual a 18.5, devolver "Infrapeso"
+- Si el IMC es mayor que 18.5 y menor o igual a 25, devolver "Normal"
+- Si el IMC es mayor que 25 y menor o igual a 30, devolver "Sobrepeso"
+- Si el IMC es mayor que 30, devolver "Obeso"
+
 La solución involucra tomar los valores de peso y altura del usuario a través de la entrada por consola, y luego calcular el IMC utilizando la fórmula IMC = peso / altura^2. Luego, se compara el valor del IMC calculado con los valores de referencia y se devuelve una etiqueta según el resultado.
 
 ## Ejercicio 2.2 - Suma de dígitos
